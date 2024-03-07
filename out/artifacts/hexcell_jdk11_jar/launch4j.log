@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Jeremiah\IdeaProjects\hexcell-jdk11\out\artifacts\hexcell_jdk11_jar\HexCell Converter 0.4.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Jeremiah\IdeaProjects\hexcell-jdk11\out\artifacts\hexcell_jdk11_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\Jeremiah\Documents\JDK\jdk-21.0.2
+Substitute:	PATH = C:\Python312\Scripts\;C:\Python312\;C:\Users\Jeremiah\Documents\JDK\jdk-21.0.2\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files (x86)\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Jeremiah\.cargo\bin;C:\Users\Jeremiah\Documents\JDK\jdk-21.0.2\bin;C:\Users\Jeremiah\AppData\Local\Microsoft\WindowsApps;C:\Users\Jeremiah\AppData\Local\GitHubDesktop\bin;C:\Users\Jeremiah\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Brackets\;C:\Users\Jeremiah\.dotnet\tools;C:\Users\Jeremiah\AppData\Roaming\npm;C:\Users\Jeremiah\Documents\JDK\jdk-21.0.2\bin
+JRE paths:	C:\Users\Jeremiah\Documents\JDK\jdk-21.0.2;C:\Python312\Scripts\;C:\Python312\;C:\Users\Jeremiah\Documents\JDK\jdk-21.0.2\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files (x86)\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Jeremiah\.cargo\bin;C:\Users\Jeremiah\Documents\JDK\jdk-21.0.2\bin;C:\Users\Jeremiah\AppData\Local\Microsoft\WindowsApps;C:\Users\Jeremiah\AppData\Local\GitHubDesktop\bin;C:\Users\Jeremiah\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Brackets\;C:\Users\Jeremiah\.dotnet\tools;C:\Users\Jeremiah\AppData\Roaming\npm;C:\Users\Jeremiah\Documents\JDK\jdk-21.0.2\bin
+Check launcher:	C:\Users\Jeremiah\Documents\JDK\jdk-21.0.2\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\Jeremiah\Documents\JDK\jdk-21.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Jeremiah\IdeaProjects\hexcell-jdk11\out\artifacts\hexcell_jdk11_jar\HexCell Converter 0.4.exe"
+Args length:	109/32768 chars
+Exit code:	0
